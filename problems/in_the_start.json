@@ -1,6 +1,6 @@
 {
   "title": "في البداية",
-  "text": "مرحبا {first_name_a} إلى عالم البرمجة! مهمتك الأولى بسيطة، اطبع العبارات التالية كل منها على سطر:\n\n`Hello World`\n`I am {first_name_e}`",
+  "text": "مرحبا {first_name_a} إلى عالم البرمجة! مهمتك الأولى بسيطة، اطبع العبارات التالية كل منها على سطر:\n\n```Hello World\nI am {first_name_e}```",
   "sub_title": "اهلا بك بالبرمجة!",
   "tests": {
     "": "Hello World\nI am {first_name_e}"
